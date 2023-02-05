@@ -1,4 +1,4 @@
-package io.aadeesh;
+package io.raihnraf;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
